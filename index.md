@@ -14,7 +14,7 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-![helix-logo](./helix_logo.png)
+![helix-logo](./domo-kun.png)
 
 # rofe's helix project
 
